@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @goherjo
 - 👀 I’m interested in software architecture
-- 🌱 I’m currently learning Ionic
+- 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on something new
 - 📫 How to reach me joel.hermosillo.go@gmail.com
 
